@@ -54,3 +54,7 @@ mov ecx, msg    ; pointer to message
 mov edx, len    ; length of message
 int 0x80        ; perform syscall: write(1, msg, len) - trigger interrupt
 ```
+
+### How It works?
+
+<img src="x86-nasm-linux.png" width="600">
