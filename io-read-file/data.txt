@@ -1,0 +1,4 @@
+this is a simple
+txt file
+by was read by Assembly
+DONE.
